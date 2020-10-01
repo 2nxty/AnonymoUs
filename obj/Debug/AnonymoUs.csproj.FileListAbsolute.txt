@@ -1,0 +1,10 @@
+C:\Projects\AnonymoUs\bin\Debug\AnonymoUs.exe.config
+C:\Projects\AnonymoUs\bin\Debug\AnonymoUs.exe
+C:\Projects\AnonymoUs\bin\Debug\AnonymoUs.pdb
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.csprojAssemblyReference.cache
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.Form1.resources
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.Properties.Resources.resources
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.csproj.GenerateResource.cache
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.csproj.CoreCompileInputs.cache
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.exe
+C:\Projects\AnonymoUs\obj\Debug\AnonymoUs.pdb
