@@ -1,4 +1,4 @@
-# AnonymoUs
+# AnonymoUs [PATCHED]
 Makes you nameless in Among Us
 
 ![Release](https://i.ibb.co/R4HMf4X/image.png)
